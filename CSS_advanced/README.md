@@ -1,7 +1,7 @@
 # <p align="center">CSS - Advanced</p>
 ## <p align="center">🎓 Holberton School - Lille</p>
 
-![](https://i.imgur.com/q8FRHyA.jpg)
+![](https://i.imgur.com/f3N0Sor.jpg)
 
 For this project, we're going to create the CSS structure of a website for the fictitious company ***Techium***
 
