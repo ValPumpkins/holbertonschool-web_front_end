@@ -266,7 +266,7 @@ ul.row {
 .card-testimonial .card-quote::before {
 	content: "\201C";
 	position: absolute;
-	top: -4.5mm;
+	top: -4.5rem;
 	left: -1rem;
 	color: #efeded;
 	font-size: 10rem;
@@ -321,7 +321,7 @@ ul.row {
 	left: -0.1rem;
 	right: -0.1rem;
 	z-index: 1;
-	transition: var(–-transition-duration) var(--transition-cubic-bezier);
+	transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 .card-work:hover .card-inner {
 	background-color: rgba(0, 0, 0, 0.7);
