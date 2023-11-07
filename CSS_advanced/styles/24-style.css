@@ -190,7 +190,7 @@ ul.row {
 	padding: 0.5rem;
 }
 .card-services .card-title {
-	margin: none;
+	margin: 0;
 }
 .card-services a {
 	display: block;
