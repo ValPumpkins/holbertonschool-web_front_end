@@ -11,7 +11,7 @@
 	--text-color: var(--color-black);
 
 	--font-family-base: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
-	--font-family-title: Releway, Helvetica Neue, Helvetica, Arial, sans-serif;
+	--font-family-title: Raleway, Helvetica Neue, Helvetica, Arial, sans-serif;
 
 	--font-size-small: 1.2rem;
 	--font-size-medium: 1.6rem;
@@ -30,7 +30,6 @@
 	--section-title-margin: 0;
 	--section-title-color: var(--color-black);
 }
-
 html {
 	scroll-behavior: smooth;
 	font-size: 62.5%;
